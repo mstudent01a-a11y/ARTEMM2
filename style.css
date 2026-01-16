@@ -7,7 +7,7 @@ body {
 
 header {
     justify-content: space-between;
-    padding: ;
+    padding: 0px;
     margin-bottom: 20px;
     display: flex;
 }
@@ -39,8 +39,8 @@ h1 {
     text-align: center;
     color: black;
     font-size: 36px;
-    margin-top: ;
-    margin-bottom: ;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 p {
@@ -57,7 +57,7 @@ p {
 
 article {
     background-color: white;
-    padding: ;
+    padding: 0px;
     width: 400px;
     margin: 30px;
 }
